@@ -4,3 +4,4 @@ git diff test
 git diff --staged
 git commit -a
 add a amend line
+add a lite tag
